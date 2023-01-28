@@ -1,0 +1,2886 @@
+{
+"BB":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Bernau bei Berlin, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Blankenfelde-Mahlow",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Brandenburg an der Havel, Stadt",
+  "Column2": 530
+ },
+ {
+  "Gemeindebezeichnung": "Cottbus\/Chósebuz, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Eberswalde, Stadt",
+  "Column2": 415
+ },
+ {
+  "Gemeindebezeichnung": "Eisenhüttenstadt, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Falkensee, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Frankfurt (Oder), Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Fürstenwalde\/Spree, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Hennigsdorf, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Hohen Neuendorf, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Kleinmachnow",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "Königs Wusterhausen, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Luckenwalde, Stadt",
+  "Column2": 384
+ },
+ {
+  "Gemeindebezeichnung": "Ludwigsfelde, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Neuruppin, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Oranienburg, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Panketal",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Potsdam, Stadt",
+  "Column2": 545
+ },
+ {
+  "Gemeindebezeichnung": "Rathenow, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Schwedt\/Oder, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Senftenberg\/Zly Komorow, Stadt",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Spremberg\/Grodk, Stadt",
+  "Column2": 417
+ },
+ {
+  "Gemeindebezeichnung": "Strausberg, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Teltow, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Wandlitz",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Werder (Havel), Stadt",
+  "Column2": 385
+ }
+],
+"BE":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Berlin, Stadt",
+  "Column2": 810
+ }
+],
+"BW":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Aalen, Stadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Achern, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Albstadt, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Backnang, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Bad Krozingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Bad Mergentheim, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Bad Rappenau, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Bad Waldsee, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Baden-Baden, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Balingen, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Biberach an der Riß, Stadt",
+  "Column2": 200
+ },
+ {
+  "Gemeindebezeichnung": "Bietigheim-Bissingen, Stadt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Böblingen, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Bretten, Stadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Bruchsal, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Bühl, Stadt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Calw, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Crailsheim, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Ditzingen, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Donaueschingen, Stadt",
+  "Column2": 435
+ },
+ {
+  "Gemeindebezeichnung": "Ehingen (Donau), Stadt",
+  "Column2": 300
+ },
+ {
+  "Gemeindebezeichnung": "Eislingen\/Fils, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Ellwangen (Jagst), Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Emmendingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Eppingen, Stadt",
+  "Column2": 355
+ },
+ {
+  "Gemeindebezeichnung": "Esslingen am Neckar, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Ettlingen, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Fellbach, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Filderstadt, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Freiburg im Breisgau, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Freudenstadt, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Friedrichshafen, Stadt",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Gaggenau, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Geislingen an der Steige, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Göppingen, Stadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Heidelberg, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Heidenheim an der Brenz, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Heilbronn, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Herrenberg, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Hockenheim, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Horb am Neckar, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Karlsruhe, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Kehl, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Kirchheim unter Teck, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Konstanz, Universitätsstadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Kornwestheim, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Lahr\/Schwarzwald, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Laupheim, Stadt",
+  "Column2": 335
+ },
+ {
+  "Gemeindebezeichnung": "Leimen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Leinfelden-Echterdingen, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Leonberg, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Leutkirch im Allgäu, Stadt",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Lörrach, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Ludwigsburg, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Mannheim, Universitätsstadt",
+  "Column2": 487
+ },
+ {
+  "Gemeindebezeichnung": "Metzingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Mosbach, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Mössingen, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Mühlacker, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Nagold, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Neckarsulm, Stadt",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Nürtingen, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Oberkirch, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Offenburg, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Öhringen, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Ostfildern, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Pforzheim, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Radolfzell am Bodensee, Stadt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Rastatt, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Ravensburg, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Remseck am Neckar, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Reutlingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Rheinfelden (Baden), Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Rheinstetten, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Rottenburg am Neckar, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Rottweil, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Schorndorf, Stadt",
+  "Column2": 465
+ },
+ {
+  "Gemeindebezeichnung": "Schramberg, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Schwäbisch Gmünd, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Schwäbisch Hall, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Schwetzingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Sindelfingen, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Singen (Hohentwiel), Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Sinsheim, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Stutensee, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Stuttgart, Landeshauptstadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Tübingen, Universitätsstadt",
+  "Column2": 660
+ },
+ {
+  "Gemeindebezeichnung": "Tuttlingen, Stadt",
+  "Column2": 330
+ },
+ {
+  "Gemeindebezeichnung": "Überlingen, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Ulm, Universitätsstadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Vaihingen an der Enz, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Villingen-Schwenningen, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Waghäusel, Stadt",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Waiblingen, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Waldkirch, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Waldshut-Tiengen, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Wangen im Allgäu, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Weil am Rhein, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Weingarten, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Weinheim, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Weinstadt, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Wertheim, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Wiesloch, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Winnenden, Stadt",
+  "Column2": 420
+ }
+],
+"BY":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Aichach, St",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Amberg",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Ansbach",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Aschaffenburg",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Augsburg",
+  "Column2": 555
+ },
+ {
+  "Gemeindebezeichnung": "Bad Kissingen, GKSt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Bamberg",
+  "Column2": 535
+ },
+ {
+  "Gemeindebezeichnung": "Bayreuth",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Coburg",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Dachau, GKSt",
+  "Column2": 330
+ },
+ {
+  "Gemeindebezeichnung": "Deggendorf, GKSt",
+  "Column2": 330
+ },
+ {
+  "Gemeindebezeichnung": "Erding, GKSt",
+  "Column2": 300
+ },
+ {
+  "Gemeindebezeichnung": "Erlangen",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Forchheim, GKSt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Freising, GKSt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Friedberg, St",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Fürstenfeldbruck, GKSt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Fürth",
+  "Column2": 555
+ },
+ {
+  "Gemeindebezeichnung": "Garmisch-Partenkirchen, M",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Gauting",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Geretsried, St",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Germering, GKSt",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Gersthofen, St",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Günzburg, GKSt",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Haar",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Herzogenaurach, St",
+  "Column2": 280
+ },
+ {
+  "Gemeindebezeichnung": "Hof",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Ingolstadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Karlsfeld",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Kaufbeuren",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Kempten (Allgäu)",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Kitzingen, GKSt",
+  "Column2": 315
+ },
+ {
+  "Gemeindebezeichnung": "Königsbrunn, St",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Kulmbach, GKSt",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Landsberg am Lech, GKSt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Landshut",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Lauf a.d.Pegnitz, St",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Lichtenfels, St",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Lindau (Bodensee), GKSt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Memmingen",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Mühldorf a.Inn, St",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "München, Landeshauptstadt",
+  "Column2": 535
+ },
+ {
+  "Gemeindebezeichnung": "Neuburg a.d.Donau, GKSt",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Neufahrn b. Freising",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Neumarkt i.d.OPf., GKSt",
+  "Column2": 275
+ },
+ {
+  "Gemeindebezeichnung": "Neusäß, St",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Neu-Ulm, GKSt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Nördlingen, GKSt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Nürnberg",
+  "Column2": 555
+ },
+ {
+  "Gemeindebezeichnung": "Olching, St",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Ottobrunn",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Passau",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Pfaffenhofen a.d.Ilm, St",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Puchheim, St",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Regensburg",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Rosenheim",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Roth, St",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Schwabach",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Schwandorf, GKSt",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Schweinfurt",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Senden, St",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Sonthofen, St",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Starnberg, St",
+  "Column2": 385
+ },
+ {
+  "Gemeindebezeichnung": "Straubing",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Traunreut, St",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Traunstein, GKSt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Unterhaching",
+  "Column2": 280
+ },
+ {
+  "Gemeindebezeichnung": "Unterschleißheim, St",
+  "Column2": 280
+ },
+ {
+  "Gemeindebezeichnung": "Vaterstetten",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Waldkraiburg, St",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Weiden i.d.OPf.",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Weilheim i.OB, St",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Würzburg",
+  "Column2": 475
+ },
+ {
+  "Gemeindebezeichnung": "Zirndorf, St",
+  "Column2": 360
+ }
+],
+"HB":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Bremen, Stadt",
+  "Column2": 695
+ },
+ {
+  "Gemeindebezeichnung": "Bremerhaven, Stadt",
+  "Column2": 645
+ }
+],
+"HE":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Bad Hersfeld, Kreisstadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Bad Homburg v. d. Höhe, Stadt",
+  "Column2": 345
+ },
+ {
+  "Gemeindebezeichnung": "Bad Nauheim, Stadt",
+  "Column2": 560
+ },
+ {
+  "Gemeindebezeichnung": "Bad Soden am Taunus, Stadt",
+  "Column2": 632
+ },
+ {
+  "Gemeindebezeichnung": "Bad Vilbel, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Baunatal, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Bensheim, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Bruchköbel, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Büdingen, Stadt",
+  "Column2": 431
+ },
+ {
+  "Gemeindebezeichnung": "Butzbach, Friedrich-Ludwig-Weidig-Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Darmstadt, Wissenschaftsstadt",
+  "Column2": 535
+ },
+ {
+  "Gemeindebezeichnung": "Dietzenbach, Kreisstadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Dillenburg, Oranienstadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Dreieich, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Eschborn, Stadt",
+  "Column2": 140
+ },
+ {
+  "Gemeindebezeichnung": "Flörsheim am Main, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Frankfurt am Main, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Friedberg (Hessen), Kreisstadt",
+  "Column2": 590
+ },
+ {
+  "Gemeindebezeichnung": "Friedrichsdorf, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Fulda, Stadt",
+  "Column2": 340
+ },
+ {
+  "Gemeindebezeichnung": "Gelnhausen, Barbarossast., Krst.",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Gießen, Universitätsstadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Griesheim, Stadt",
+  "Column2": 515
+ },
+ {
+  "Gemeindebezeichnung": "Groß-Gerau, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Groß-Umstadt, Stadt",
+  "Column2": 525
+ },
+ {
+  "Gemeindebezeichnung": "Hanau, Brüder-Grimm-Stadt",
+  "Column2": 595
+ },
+ {
+  "Gemeindebezeichnung": "Hattersheim am Main, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Heppenheim (Bergstraße), Kreisstadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Herborn, Stadt",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "Hofheim am Taunus, Kreisstadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Idstein, Hochschulstadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Karben, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Kassel, documenta-Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Kelkheim (Taunus), Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Korbach, Hansestadt, Kreisstadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Lampertheim, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Langen (Hessen), Stadt",
+  "Column2": 860
+ },
+ {
+  "Gemeindebezeichnung": "Limburg a.d. Lahn, Kreisstadt",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "Maintal, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Marburg, Universitätsstadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Mörfelden-Walldorf, Stadt",
+  "Column2": 790
+ },
+ {
+  "Gemeindebezeichnung": "Mühlheim am Main, Stadt",
+  "Column2": 650
+ },
+ {
+  "Gemeindebezeichnung": "Neu-Isenburg, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Nidderau, Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Obertshausen, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Oberursel (Taunus), Stadt",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Offenbach am Main, Stadt",
+  "Column2": 895
+ },
+ {
+  "Gemeindebezeichnung": "Pfungstadt, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Riedstadt, Büchnerstadt",
+  "Column2": 700
+ },
+ {
+  "Gemeindebezeichnung": "Rödermark, Stadt",
+  "Column2": 715
+ },
+ {
+  "Gemeindebezeichnung": "Rodgau, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Rüsselsheim am Main, Stadt",
+  "Column2": 800
+ },
+ {
+  "Gemeindebezeichnung": "Seligenstadt, Stadt",
+  "Column2": 431
+ },
+ {
+  "Gemeindebezeichnung": "Stadtallendorf, Stadt",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "Taunusstein, Stadt",
+  "Column2": 505
+ },
+ {
+  "Gemeindebezeichnung": "Viernheim, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Weiterstadt, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Wetzlar, Stadt",
+  "Column2": 780
+ },
+ {
+  "Gemeindebezeichnung": "Wiesbaden, Landeshauptstadt",
+  "Column2": 492
+ }
+],
+"HH":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Hamburg, Freie und Hansestadt",
+  "Column2": 540
+ }
+],
+"MV":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Greifswald, Hansestadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Güstrow, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Neubrandenburg, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Neustrelitz, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Rostock, Hansestadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Schwerin, Landeshauptstadt",
+  "Column2": 595
+ },
+ {
+  "Gemeindebezeichnung": "Stralsund, Hansestadt",
+  "Column2": 545
+ },
+ {
+  "Gemeindebezeichnung": "Waren (Müritz), Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Wismar, Hansestadt",
+  "Column2": 580
+ }
+],
+"NI":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Achim, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Aurich, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Bad Harzburg, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Bad Zwischenahn",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Barsinghausen, Stadt",
+  "Column2": 560
+ },
+ {
+  "Gemeindebezeichnung": "Bramsche, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Braunschweig, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Buchholz in der Nordheide, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Burgdorf, Stadt",
+  "Column2": 540
+ },
+ {
+  "Gemeindebezeichnung": "Burgwedel, Stadt",
+  "Column2": 455
+ },
+ {
+  "Gemeindebezeichnung": "Buxtehude, Hansestadt",
+  "Column2": 415
+ },
+ {
+  "Gemeindebezeichnung": "Celle, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Cloppenburg, Stadt",
+  "Column2": 330
+ },
+ {
+  "Gemeindebezeichnung": "Cuxhaven, Stadt",
+  "Column2": 505
+ },
+ {
+  "Gemeindebezeichnung": "Delmenhorst, Stadt",
+  "Column2": 530
+ },
+ {
+  "Gemeindebezeichnung": "Duderstadt, Stadt",
+  "Column2": 415
+ },
+ {
+  "Gemeindebezeichnung": "Edewecht",
+  "Column2": 335
+ },
+ {
+  "Gemeindebezeichnung": "Einbeck, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Emden, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Friesoythe, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Ganderkesee",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Garbsen, Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Geestland, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Georgsmarienhütte, Stadt",
+  "Column2": 360
+ },
+ {
+  "Gemeindebezeichnung": "Gifhorn, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Goslar, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Göttingen, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Hameln, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Hann. Münden, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Hannover, Landeshauptstadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Haren (Ems), Stadt",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Helmstedt, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Hildesheim, Stadt",
+  "Column2": 540
+ },
+ {
+  "Gemeindebezeichnung": "Ilsede",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Isernhagen",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Laatzen, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Langenhagen, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Leer (Ostfriesland), Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Lehrte, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Lingen (Ems), Stadt",
+  "Column2": 330
+ },
+ {
+  "Gemeindebezeichnung": "Lohne (Oldenburg), Stadt",
+  "Column2": 275
+ },
+ {
+  "Gemeindebezeichnung": "Lüneburg, Hansestadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Melle, Stadt",
+  "Column2": 345
+ },
+ {
+  "Gemeindebezeichnung": "Meppen, Stadt",
+  "Column2": 310
+ },
+ {
+  "Gemeindebezeichnung": "Moormerland",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Neu Wulmstorf",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Neustadt am Rübenberge, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Nienburg (Weser), Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Norden, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Nordenham, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Nordhorn, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Northeim, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Oldenburg (Oldenburg), Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Osnabrück, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Osterholz-Scharmbeck, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Osterode am Harz, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Papenburg, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Peine, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Rastede",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Rinteln, Stadt",
+  "Column2": 433
+ },
+ {
+  "Gemeindebezeichnung": "Ronnenberg, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Rotenburg (Wümme), Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Salzgitter, Stadt",
+  "Column2": 540
+ },
+ {
+  "Gemeindebezeichnung": "Schortens, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Schwanewede",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Seelze, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Seevetal",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Sehnde, Stadt",
+  "Column2": 560
+ },
+ {
+  "Gemeindebezeichnung": "Soltau, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Springe, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Stade, Hansestadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Stadthagen, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Stuhr",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Syke, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Uelzen, Hansestadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Uetze",
+  "Column2": 505
+ },
+ {
+  "Gemeindebezeichnung": "Varel, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Vechta, Stadt",
+  "Column2": 280
+ },
+ {
+  "Gemeindebezeichnung": "Verden (Aller), Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Wallenhorst",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Walsrode, Stadt",
+  "Column2": 375
+ },
+ {
+  "Gemeindebezeichnung": "Wedemark",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Westerstede, Stadt",
+  "Column2": 325
+ },
+ {
+  "Gemeindebezeichnung": "Westoverledingen",
+  "Column2": 320
+ },
+ {
+  "Gemeindebezeichnung": "Weyhe",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Wildeshausen, Stadt",
+  "Column2": 355
+ },
+ {
+  "Gemeindebezeichnung": "Wilhelmshaven, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Winsen (Luhe), Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Wittmund, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Wolfenbüttel, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Wolfsburg, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Wunstorf, Stadt",
+  "Column2": 490
+ }
+],
+"NW":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Aachen, Stadt",
+  "Column2": 525
+ },
+ {
+  "Gemeindebezeichnung": "Ahaus, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Ahlen, Stadt",
+  "Column2": 547
+ },
+ {
+  "Gemeindebezeichnung": "Alfter",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Alsdorf, Stadt",
+  "Column2": 695
+ },
+ {
+  "Gemeindebezeichnung": "Arnsberg, Stadt",
+  "Column2": 523
+ },
+ {
+  "Gemeindebezeichnung": "Attendorn, Hansestadt",
+  "Column2": 315
+ },
+ {
+  "Gemeindebezeichnung": "Bad Honnef, Stadt",
+  "Column2": 715
+ },
+ {
+  "Gemeindebezeichnung": "Bad Oeynhausen, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Bad Salzuflen, Stadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Baesweiler, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Beckum, Stadt",
+  "Column2": 435
+ },
+ {
+  "Gemeindebezeichnung": "Bedburg, Stadt",
+  "Column2": 670
+ },
+ {
+  "Gemeindebezeichnung": "Bergheim, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Bergisch Gladbach, Stadt",
+  "Column2": 570
+ },
+ {
+  "Gemeindebezeichnung": "Bergkamen, Stadt",
+  "Column2": 670
+ },
+ {
+  "Gemeindebezeichnung": "Bielefeld, Stadt",
+  "Column2": 660
+ },
+ {
+  "Gemeindebezeichnung": "Bocholt, Stadt",
+  "Column2": 630
+ },
+ {
+  "Gemeindebezeichnung": "Bochum, Stadt",
+  "Column2": 645
+ },
+ {
+  "Gemeindebezeichnung": "Bonn, Stadt",
+  "Column2": 680
+ },
+ {
+  "Gemeindebezeichnung": "Borken, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Bornheim, Stadt",
+  "Column2": 770
+ },
+ {
+  "Gemeindebezeichnung": "Bottrop, Stadt",
+  "Column2": 680
+ },
+ {
+  "Gemeindebezeichnung": "Brilon, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Brühl, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Bünde, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Büren, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Castrop-Rauxel, Stadt",
+  "Column2": 825
+ },
+ {
+  "Gemeindebezeichnung": "Coesfeld, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Datteln, Stadt",
+  "Column2": 825
+ },
+ {
+  "Gemeindebezeichnung": "Delbrück, Stadt",
+  "Column2": 423
+ },
+ {
+  "Gemeindebezeichnung": "Detmold, Stadt",
+  "Column2": 540
+ },
+ {
+  "Gemeindebezeichnung": "Dinslaken, Stadt",
+  "Column2": 648
+ },
+ {
+  "Gemeindebezeichnung": "Dormagen, Stadt",
+  "Column2": 435
+ },
+ {
+  "Gemeindebezeichnung": "Dorsten, Stadt",
+  "Column2": 780
+ },
+ {
+  "Gemeindebezeichnung": "Dortmund, Stadt",
+  "Column2": 610
+ },
+ {
+  "Gemeindebezeichnung": "Duisburg, Stadt",
+  "Column2": 855
+ },
+ {
+  "Gemeindebezeichnung": "Dülmen, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Düren, Stadt",
+  "Column2": 590
+ },
+ {
+  "Gemeindebezeichnung": "Düsseldorf, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Elsdorf, Stadt",
+  "Column2": 715
+ },
+ {
+  "Gemeindebezeichnung": "Emmerich am Rhein, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Emsdetten, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Enger, Widukindstadt",
+  "Column2": 525
+ },
+ {
+  "Gemeindebezeichnung": "Ennepetal, Stadt der Kluterthöhle",
+  "Column2": 740
+ },
+ {
+  "Gemeindebezeichnung": "Erftstadt, Stadt",
+  "Column2": 650
+ },
+ {
+  "Gemeindebezeichnung": "Erkelenz, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Erkrath, Fundort des Neanderthalers, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Eschweiler, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Espelkamp, Stadt",
+  "Column2": 429
+ },
+ {
+  "Gemeindebezeichnung": "Essen, Stadt",
+  "Column2": 670
+ },
+ {
+  "Gemeindebezeichnung": "Euskirchen, Stadt",
+  "Column2": 496
+ },
+ {
+  "Gemeindebezeichnung": "Frechen, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Fröndenberg\/Ruhr, Stadt",
+  "Column2": 695
+ },
+ {
+  "Gemeindebezeichnung": "Geilenkirchen, Stadt",
+  "Column2": 486
+ },
+ {
+  "Gemeindebezeichnung": "Geldern, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Gelsenkirchen, Stadt",
+  "Column2": 675
+ },
+ {
+  "Gemeindebezeichnung": "Geseke, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Gevelsberg, Stadt",
+  "Column2": 695
+ },
+ {
+  "Gemeindebezeichnung": "Gladbeck, Stadt",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Goch, Stadt",
+  "Column2": 498
+ },
+ {
+  "Gemeindebezeichnung": "Greven, Stadt",
+  "Column2": 580
+ },
+ {
+  "Gemeindebezeichnung": "Grevenbroich, Stadt",
+  "Column2": 625
+ },
+ {
+  "Gemeindebezeichnung": "Gronau (Westf.), Stadt",
+  "Column2": 429
+ },
+ {
+  "Gemeindebezeichnung": "Gummersbach, Stadt",
+  "Column2": 570
+ },
+ {
+  "Gemeindebezeichnung": "Gütersloh, Stadt",
+  "Column2": 381
+ },
+ {
+  "Gemeindebezeichnung": "Haan, Stadt",
+  "Column2": 433
+ },
+ {
+  "Gemeindebezeichnung": "Hagen, Stadt der FernUniversität",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Halle (Westf.), Stadt",
+  "Column2": 381
+ },
+ {
+  "Gemeindebezeichnung": "Haltern am See, Stadt",
+  "Column2": 825
+ },
+ {
+  "Gemeindebezeichnung": "Hamm, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Hamminkeln, Stadt",
+  "Column2": 650
+ },
+ {
+  "Gemeindebezeichnung": "Harsewinkel, Die Mähdrescherstadt",
+  "Column2": 260
+ },
+ {
+  "Gemeindebezeichnung": "Hattingen, Stadt",
+  "Column2": 875
+ },
+ {
+  "Gemeindebezeichnung": "Heiligenhaus, Stadt",
+  "Column2": 680
+ },
+ {
+  "Gemeindebezeichnung": "Heinsberg, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Hemer, Stadt",
+  "Column2": 680
+ },
+ {
+  "Gemeindebezeichnung": "Hennef (Sieg), Stadt",
+  "Column2": 640
+ },
+ {
+  "Gemeindebezeichnung": "Herdecke, Stadt",
+  "Column2": 745
+ },
+ {
+  "Gemeindebezeichnung": "Herford, Hansestadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Herne, Stadt",
+  "Column2": 745
+ },
+ {
+  "Gemeindebezeichnung": "Herten, Stadt",
+  "Column2": 790
+ },
+ {
+  "Gemeindebezeichnung": "Herzogenrath, Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Hilden, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Hörstel, Stadt",
+  "Column2": 423
+ },
+ {
+  "Gemeindebezeichnung": "Höxter, Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Hückelhoven, Stadt",
+  "Column2": 429
+ },
+ {
+  "Gemeindebezeichnung": "Hürth, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Ibbenbüren, Stadt",
+  "Column2": 529
+ },
+ {
+  "Gemeindebezeichnung": "Iserlohn, Stadt",
+  "Column2": 496
+ },
+ {
+  "Gemeindebezeichnung": "Jüchen, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Jülich, Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Kaarst, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Kamen, Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Kamp-Lintfort, Stadt",
+  "Column2": 765
+ },
+ {
+  "Gemeindebezeichnung": "Kempen, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Kerpen, Kolpingstadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Kevelaer, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Kleve, Stadt",
+  "Column2": 471
+ },
+ {
+  "Gemeindebezeichnung": "Köln, Stadt",
+  "Column2": 515
+ },
+ {
+  "Gemeindebezeichnung": "Königswinter, Stadt",
+  "Column2": 560
+ },
+ {
+  "Gemeindebezeichnung": "Korschenbroich, Stadt",
+  "Column2": 590
+ },
+ {
+  "Gemeindebezeichnung": "Krefeld, Stadt",
+  "Column2": 533
+ },
+ {
+  "Gemeindebezeichnung": "Kreuztal, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Lage, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Langenfeld (Rheinland), Stadt",
+  "Column2": 299
+ },
+ {
+  "Gemeindebezeichnung": "Leichlingen (Rheinland), Blütenstadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Lemgo, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Lengerich, Stadt",
+  "Column2": 528
+ },
+ {
+  "Gemeindebezeichnung": "Lennestadt, Stadt",
+  "Column2": 458
+ },
+ {
+  "Gemeindebezeichnung": "Leverkusen, Stadt",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Lindlar",
+  "Column2": 665
+ },
+ {
+  "Gemeindebezeichnung": "Lippstadt, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Lohmar, Stadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Löhne, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Lübbecke, Stadt",
+  "Column2": 429
+ },
+ {
+  "Gemeindebezeichnung": "Lüdenscheid, Stadt",
+  "Column2": 766
+ },
+ {
+  "Gemeindebezeichnung": "Lüdinghausen, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Lünen, Stadt",
+  "Column2": 760
+ },
+ {
+  "Gemeindebezeichnung": "Marl, Stadt",
+  "Column2": 790
+ },
+ {
+  "Gemeindebezeichnung": "Mechernich, Stadt",
+  "Column2": 595
+ },
+ {
+  "Gemeindebezeichnung": "Meckenheim, Stadt",
+  "Column2": 551
+ },
+ {
+  "Gemeindebezeichnung": "Meerbusch, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Meinerzhagen, Stadt",
+  "Column2": 575
+ },
+ {
+  "Gemeindebezeichnung": "Menden (Sauerland), Stadt",
+  "Column2": 595
+ },
+ {
+  "Gemeindebezeichnung": "Meschede, Kreis- und  Hochschulstadt",
+  "Column2": 475
+ },
+ {
+  "Gemeindebezeichnung": "Mettmann, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Minden, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Moers, Stadt",
+  "Column2": 740
+ },
+ {
+  "Gemeindebezeichnung": "Mönchengladbach, Stadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Monheim am Rhein, Stadt",
+  "Column2": 250
+ },
+ {
+  "Gemeindebezeichnung": "Mülheim an der Ruhr, Stadt",
+  "Column2": 890
+ },
+ {
+  "Gemeindebezeichnung": "Münster, Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Netphen, Stadt",
+  "Column2": 535
+ },
+ {
+  "Gemeindebezeichnung": "Nettetal, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Neukirchen-Vluyn, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Neuss, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Niederkassel, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Oberhausen, Stadt",
+  "Column2": 670
+ },
+ {
+  "Gemeindebezeichnung": "Oelde, Stadt",
+  "Column2": 474
+ },
+ {
+  "Gemeindebezeichnung": "Oer-Erkenschwick, Stadt",
+  "Column2": 825
+ },
+ {
+  "Gemeindebezeichnung": "Olpe, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Overath, Stadt",
+  "Column2": 850
+ },
+ {
+  "Gemeindebezeichnung": "Paderborn, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Petershagen, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Plettenberg, Stadt",
+  "Column2": 590
+ },
+ {
+  "Gemeindebezeichnung": "Porta Westfalica, Stadt",
+  "Column2": 530
+ },
+ {
+  "Gemeindebezeichnung": "Pulheim, Stadt",
+  "Column2": 555
+ },
+ {
+  "Gemeindebezeichnung": "Radevormwald, Stadt auf der Höhe",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Ratingen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Recklinghausen, Stadt",
+  "Column2": 695
+ },
+ {
+  "Gemeindebezeichnung": "Rees, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Remscheid, Stadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Rheda-Wiedenbrück, Stadt",
+  "Column2": 423
+ },
+ {
+  "Gemeindebezeichnung": "Rheinbach, Stadt",
+  "Column2": 753
+ },
+ {
+  "Gemeindebezeichnung": "Rheinberg, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Rheine, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Rietberg, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Rösrath, Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Salzkotten, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Sankt Augustin, Stadt",
+  "Column2": 750
+ },
+ {
+  "Gemeindebezeichnung": "Schloß Holte-Stukenbrock, Stadt",
+  "Column2": 280
+ },
+ {
+  "Gemeindebezeichnung": "Schmallenberg, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Schwelm, Stadt",
+  "Column2": 742
+ },
+ {
+  "Gemeindebezeichnung": "Schwerte, Hansestadt an der Ruhr",
+  "Column2": 880
+ },
+ {
+  "Gemeindebezeichnung": "Selm, Stadt",
+  "Column2": 825
+ },
+ {
+  "Gemeindebezeichnung": "Senden",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Siegburg, Stadt",
+  "Column2": 790
+ },
+ {
+  "Gemeindebezeichnung": "Siegen, Universitätsstadt",
+  "Column2": 525
+ },
+ {
+  "Gemeindebezeichnung": "Soest, Stadt",
+  "Column2": 475
+ },
+ {
+  "Gemeindebezeichnung": "Solingen, Klingenstadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Sprockhövel, Stadt",
+  "Column2": 730
+ },
+ {
+  "Gemeindebezeichnung": "Stadtlohn, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Steinfurt, Stadt",
+  "Column2": 642
+ },
+ {
+  "Gemeindebezeichnung": "Steinhagen",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Stolberg (Rhld.), Kupferstadt",
+  "Column2": 595
+ },
+ {
+  "Gemeindebezeichnung": "Sundern (Sauerland), Stadt",
+  "Column2": 497
+ },
+ {
+  "Gemeindebezeichnung": "Tönisvorst, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Troisdorf, Stadt",
+  "Column2": 590
+ },
+ {
+  "Gemeindebezeichnung": "Übach-Palenberg, Stadt",
+  "Column2": 680
+ },
+ {
+  "Gemeindebezeichnung": "Unna, Stadt",
+  "Column2": 843
+ },
+ {
+  "Gemeindebezeichnung": "Velbert, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Verl, Stadt",
+  "Column2": 190
+ },
+ {
+  "Gemeindebezeichnung": "Versmold, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Viersen, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Voerde (Niederrhein), Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Vreden, Stadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Wachtberg",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Waltrop, Stadt",
+  "Column2": 700
+ },
+ {
+  "Gemeindebezeichnung": "Warburg, Hansestadt",
+  "Column2": 443
+ },
+ {
+  "Gemeindebezeichnung": "Warendorf, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Warstein, Stadt",
+  "Column2": 730
+ },
+ {
+  "Gemeindebezeichnung": "Wegberg, Stadt",
+  "Column2": 491
+ },
+ {
+  "Gemeindebezeichnung": "Werl, Stadt",
+  "Column2": 800
+ },
+ {
+  "Gemeindebezeichnung": "Wermelskirchen, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Werne, Stadt",
+  "Column2": 665
+ },
+ {
+  "Gemeindebezeichnung": "Wesel, Stadt",
+  "Column2": 448
+ },
+ {
+  "Gemeindebezeichnung": "Wesseling, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Wetter (Ruhr), Stadt",
+  "Column2": 725
+ },
+ {
+  "Gemeindebezeichnung": "Wiehl, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Willich, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Wilnsdorf",
+  "Column2": 475
+ },
+ {
+  "Gemeindebezeichnung": "Wipperfürth, Hansestadt",
+  "Column2": 630
+ },
+ {
+  "Gemeindebezeichnung": "Witten, Stadt",
+  "Column2": 910
+ },
+ {
+  "Gemeindebezeichnung": "Wülfrath, Stadt",
+  "Column2": 530
+ },
+ {
+  "Gemeindebezeichnung": "Wuppertal, Stadt",
+  "Column2": 620
+ },
+ {
+  "Gemeindebezeichnung": "Würselen, Stadt",
+  "Column2": 575
+ },
+ {
+  "Gemeindebezeichnung": "Xanten, Stadt",
+  "Column2": 650
+ },
+ {
+  "Gemeindebezeichnung": "Zülpich, Stadt",
+  "Column2": 690
+ }
+],
+"RP":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Andernach, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Bad Kreuznach, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Bad Neuenahr-Ahrweiler, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Bingen am Rhein, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Frankenthal (Pfalz), Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Germersheim, Stadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Haßloch",
+  "Column2": 365
+ },
+ {
+  "Gemeindebezeichnung": "Idar-Oberstein, Stadt",
+  "Column2": 535
+ },
+ {
+  "Gemeindebezeichnung": "Ingelheim am Rhein, Stadt",
+  "Column2": 80
+ },
+ {
+  "Gemeindebezeichnung": "Kaiserslautern, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Koblenz, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Landau in der Pfalz, Stadt",
+  "Column2": 475
+ },
+ {
+  "Gemeindebezeichnung": "Ludwigshafen am Rhein, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Mainz, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Neustadt an der Weinstraße, Stadt",
+  "Column2": 505
+ },
+ {
+  "Gemeindebezeichnung": "Neuwied, Stadt",
+  "Column2": 610
+ },
+ {
+  "Gemeindebezeichnung": "Pirmasens, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Schifferstadt, Stadt",
+  "Column2": 367
+ },
+ {
+  "Gemeindebezeichnung": "Speyer, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Trier, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Worms, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Zweibrücken, Stadt",
+  "Column2": 425
+ }
+],
+"SH":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Ahrensburg, Stadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Bad Oldesloe, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Bad Schwartau, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Eckernförde, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Elmshorn, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Flensburg, Stadt",
+  "Column2": 690
+ },
+ {
+  "Gemeindebezeichnung": "Geesthacht, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Heide, Stadt",
+  "Column2": 430
+ },
+ {
+  "Gemeindebezeichnung": "Henstedt-Ulzburg",
+  "Column2": 311
+ },
+ {
+  "Gemeindebezeichnung": "Husum, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Itzehoe, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Kaltenkirchen, Stadt",
+  "Column2": 315
+ },
+ {
+  "Gemeindebezeichnung": "Kiel, Landeshauptstadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Lübeck, Hansestadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Neumünster, Stadt",
+  "Column2": 480
+ },
+ {
+  "Gemeindebezeichnung": "Norderstedt, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Pinneberg, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Quickborn, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Reinbek, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Rendsburg, Stadt",
+  "Column2": 425
+ },
+ {
+  "Gemeindebezeichnung": "Schleswig, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Wedel, Stadt",
+  "Column2": 425
+ }
+],
+"SL":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Blieskastel, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Homburg, Kreisstadt",
+  "Column2": 560
+ },
+ {
+  "Gemeindebezeichnung": "Merzig, Kreisstadt",
+  "Column2": 415
+ },
+ {
+  "Gemeindebezeichnung": "Neunkirchen, Kreisstadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Saarbrücken, Landeshauptstadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Saarlouis, Kreisstadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "St. Ingbert, Stadt",
+  "Column2": 675
+ },
+ {
+  "Gemeindebezeichnung": "St. Wendel, Kreisstadt",
+  "Column2": 350
+ },
+ {
+  "Gemeindebezeichnung": "Völklingen, Stadt",
+  "Column2": 605
+ }
+],
+"SN":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Aue-Bad Schlema, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Bautzen \/ Budyšin, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Chemnitz, Stadt",
+  "Column2": 580
+ },
+ {
+  "Gemeindebezeichnung": "Coswig, Stadt",
+  "Column2": 415
+ },
+ {
+  "Gemeindebezeichnung": "Delitzsch, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Döbeln, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Dresden, Stadt",
+  "Column2": 635
+ },
+ {
+  "Gemeindebezeichnung": "Freiberg, Stadt, Universitätsstadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Freital, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Glauchau, Stadt",
+  "Column2": 490
+ },
+ {
+  "Gemeindebezeichnung": "Görlitz, Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Grimma, Stadt",
+  "Column2": 405
+ },
+ {
+  "Gemeindebezeichnung": "Hoyerswerda \/ Wojerecy, Stadt",
+  "Column2": 465
+ },
+ {
+  "Gemeindebezeichnung": "Leipzig, Stadt",
+  "Column2": 650
+ },
+ {
+  "Gemeindebezeichnung": "Limbach-Oberfrohna, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Markkleeberg, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Meißen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Pirna, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Plauen, Stadt",
+  "Column2": 505
+ },
+ {
+  "Gemeindebezeichnung": "Radebeul, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Reichenbach im Vogtland, Stadt",
+  "Column2": 410
+ },
+ {
+  "Gemeindebezeichnung": "Riesa, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Werdau, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Zittau, Stadt",
+  "Column2": 520
+ },
+ {
+  "Gemeindebezeichnung": "Zwickau, Stadt",
+  "Column2": 510
+ }
+],
+"ST":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Aschersleben, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Bernburg (Saale), Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Bitterfeld-Wolfen, Stadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Burg, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Dessau-Roßlau, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Eisleben, Lutherstadt",
+  "Column2": 433
+ },
+ {
+  "Gemeindebezeichnung": "Gardelegen, Hansestadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Halberstadt, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Halle (Saale), Stadt",
+  "Column2": 500
+ },
+ {
+  "Gemeindebezeichnung": "Köthen (Anhalt), Stadt",
+  "Column2": 510
+ },
+ {
+  "Gemeindebezeichnung": "Magdeburg, Landeshauptstadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Merseburg, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Naumburg (Saale), Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Quedlinburg, Welterbestadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Salzwedel, Hansestadt",
+  "Column2": 370
+ },
+ {
+  "Gemeindebezeichnung": "Sangerhausen, Stadt",
+  "Column2": 433
+ },
+ {
+  "Gemeindebezeichnung": "Schönebeck (Elbe), Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Staßfurt, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Stendal, Hansestadt",
+  "Column2": 390
+ },
+ {
+  "Gemeindebezeichnung": "Weißenfels, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Wernigerode, Stadt",
+  "Column2": 380
+ },
+ {
+  "Gemeindebezeichnung": "Wittenberg, Lutherstadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Zeitz, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Zerbst\/Anhalt, Stadt",
+  "Column2": 400
+ }
+],
+"TH":[
+ {
+  "Column2": "GrStB"
+ },
+ {
+  "Gemeindebezeichnung": "Altenburg, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Apolda, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Arnstadt, Stadt",
+  "Column2": 420
+ },
+ {
+  "Gemeindebezeichnung": "Bad Salzungen, Stadt",
+  "Column2": 389
+ },
+ {
+  "Gemeindebezeichnung": "Eisenach, Stadt",
+  "Column2": 472
+ },
+ {
+  "Gemeindebezeichnung": "Erfurt, Stadt",
+  "Column2": 550
+ },
+ {
+  "Gemeindebezeichnung": "Gera, Stadt",
+  "Column2": 600
+ },
+ {
+  "Gemeindebezeichnung": "Gotha, Stadt",
+  "Column2": 470
+ },
+ {
+  "Gemeindebezeichnung": "Greiz, Stadt",
+  "Column2": 439
+ },
+ {
+  "Gemeindebezeichnung": "Ilmenau, Stadt",
+  "Column2": 440
+ },
+ {
+  "Gemeindebezeichnung": "Jena, Stadt",
+  "Column2": 495
+ },
+ {
+  "Gemeindebezeichnung": "Leinefelde-Worbis, Stadt",
+  "Column2": 395
+ },
+ {
+  "Gemeindebezeichnung": "Meiningen, Stadt",
+  "Column2": 400
+ },
+ {
+  "Gemeindebezeichnung": "Mühlhausen\/Thüringen, Stadt",
+  "Column2": 450
+ },
+ {
+  "Gemeindebezeichnung": "Nordhausen, Stadt",
+  "Column2": 460
+ },
+ {
+  "Gemeindebezeichnung": "Rudolstadt, Stadt",
+  "Column2": 402
+ },
+ {
+  "Gemeindebezeichnung": "Saalfeld\/Saale, Stadt",
+  "Column2": 402
+ },
+ {
+  "Gemeindebezeichnung": "Sondershausen, Stadt",
+  "Column2": 402
+ },
+ {
+  "Gemeindebezeichnung": "Sonneberg, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Suhl, Stadt",
+  "Column2": 445
+ },
+ {
+  "Gemeindebezeichnung": "Weimar, Stadt",
+  "Column2": 480
+ }
+]
+}
