@@ -9,4 +9,3 @@ let gemeindeNamen = (data) => {
     console.log(test1);
 }
 
-/* gemeindeNamen(data) */
