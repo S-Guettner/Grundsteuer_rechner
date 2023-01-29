@@ -6,7 +6,7 @@ fetch("../assets/data/Hebesatz-data.json")
 let gemeindenNW = (data) => {
         
         let NW = data.NW
-        for(let i = 1; i <= NW.length; i++){
+        for(let i = 1; i <= NW.length-1; i++){
         console.log(NW[i].Gemeindebezeichnung , NW[i].Column2);
         }
 }
@@ -18,7 +18,7 @@ fetch("../assets/data/Hebesatz-data.json")
 let gemeindenBB = (data) => {
         
         let BB = data.BB
-        for(let i = 1; i <= BB.length; i++){
+        for(let i = 1; i <= BB.length-1; i++){
         console.log(BB[i].Gemeindebezeichnung , BB[i].Column2);
         }
 }
