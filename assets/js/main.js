@@ -29,5 +29,6 @@ let gemeindenBB = (data) => {
 
 /**
  * TODO: Only first loop in function is working ------- workaround with fetch and function for every array
- * TODO: Better solution would be all states in one function
+ * TODO: Better solution would be all states in one function !!
+ * TODO: Better array functions
  */
