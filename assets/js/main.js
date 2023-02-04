@@ -15,7 +15,7 @@ let gemeindenNW = (data) => {
 fetch("../assets/data/Hebesatz-data.json")
 .then(response => response.json())
 .then(data => gemeindenBB(data));
-
+/* Brandenburg */
 let gemeindenBB = (data) => {
         
         let BB = data.BB
