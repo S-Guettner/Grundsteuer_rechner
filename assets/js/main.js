@@ -3,6 +3,7 @@ fetch("../assets/data/Hebesatz-data.json")
 .then(response => response.json())
 .then(data => gemeindenNW(data));
 
+/* NRW */
 let gemeindenNW = (data) => {
         
         let NW = data.NW
